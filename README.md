@@ -56,19 +56,19 @@ This model provides a concrete operational example of VNAE stability in practice
 
 Below, we can see some positive insights:
 
-✔ Conceptual and theoretical model  
-✔ Suitable for biological and medical abstraction  
-✔ No empirical or clinical claims  
-✔ Parameter transparency and full reproducibility  
-✔ Applicable as a foundation for extended or hybrid models  
+✔️ Conceptual and theoretical model  
+✔️ Suitable for biological and medical abstraction  
+✔️ No empirical or clinical claims  
+✔️ Parameter transparency and full reproducibility  
+✔️ Applicable as a foundation for extended or hybrid models  
 
 The following limitations are explicit and deliberate:
 
-✘ Not a physiological model  
-✘ No patient data  
-✘ No dosage recommendations  
-✘ No pharmacokinetic or pharmacodynamic modeling  
-✘ No validation against experimental or clinical benchmarks  
+❌ Not a physiological model  
+❌ No patient data  
+❌ No dosage recommendations  
+❌ No pharmacokinetic or pharmacodynamic modeling  
+❌ No validation against experimental or clinical benchmarks  
 
 ---
 
