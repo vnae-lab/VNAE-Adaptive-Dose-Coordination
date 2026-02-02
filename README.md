@@ -74,7 +74,7 @@ The following limitations are explicit and deliberate:
 
 ## Implementation
 
-The simulation is implemented in **R**, with all asymmetry parameters and initial
+The simulation is implemented in **R, Julia, Python,and Matlab **, with all asymmetry parameters and initial
 conditions explicitly defined to emphasize interpretability and reproducibility.
 
 ---
